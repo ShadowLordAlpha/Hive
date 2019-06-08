@@ -59,6 +59,6 @@ qemu-system-x86_64 boot.bin
 
 If everything worked correctly you should end up with a screen like this.
 
-![bootloader](https://github.com/ShadowLordAlpha/Hive/tree/master/01%20-%20Boot%20Sector%20-%20Barebones/images/bootloader.png "What it should look like")
+![bootloader](https://raw.githubusercontent.com/ShadowLordAlpha/Hive/master/01%20-%20Boot%20Sector%20-%20Barebones/images/bootloader.png "What it should look like")
 
 If so congragulations! you have created one of the simplest bootloaders there is!
